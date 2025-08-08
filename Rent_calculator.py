@@ -15,3 +15,4 @@ print(f"the amount pay by one person is {total_rent/n}" )
 print("Thank you for using this program !")
 
 # hello guys kaise ho yar sab log 
+# aur kya hore h tumare haal chal.
