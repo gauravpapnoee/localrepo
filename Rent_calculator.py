@@ -1,3 +1,4 @@
+
 n = int(input("enter the number of roommates"))
 total_rent = 0
 value = True
@@ -12,3 +13,5 @@ while value:
 print(f"the total rent of your team is {total_rent}")
 print(f"the amount pay by one person is {total_rent/n}" )
 print("Thank you for using this program !")
+
+# hello guys kaise ho yar sab log 
